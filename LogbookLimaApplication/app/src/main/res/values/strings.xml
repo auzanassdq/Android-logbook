@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Logbook Lima Application</string>
+
+    <string-array name="Judul">
+        <item>Judul Spint</item>
+        <item>Judul 1</item>
+        <item>Judul 2</item>
+        <item>Judul 1</item>
+    </string-array>
+
+    <string-array name="Tasklist">
+        <item>Task List</item>
+        <item>Task 1</item>
+        <item>Task 2</item>
+        <item>Task 1</item>
+    </string-array>
+
+    <string name="link">http://192.168.43.53/api/</string>
+
+</resources>
