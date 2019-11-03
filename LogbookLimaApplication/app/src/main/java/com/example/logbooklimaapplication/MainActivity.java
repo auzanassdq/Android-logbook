@@ -95,8 +95,6 @@ public class MainActivity extends AppCompatActivity {
                 Toast.makeText(context, "Koneksi internet bermasalah", Toast.LENGTH_SHORT).show();
             }
         });
-
-
     }
 
 }
